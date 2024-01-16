@@ -18,3 +18,10 @@
 ### Added
 
 - **Version control:** Added (this) CHANGELOG.md for keeping track of the iterative changes made to this project as it develops further.
+
+
+## [0.1.2] - 2024-01-16
+
+### Added
+
+- **RAW alpha data:** Added the raw data this repository will partially be developed out of, for transparency and reflection.
