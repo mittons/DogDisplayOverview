@@ -43,3 +43,8 @@
 - **Moved the tech stack section of the projects overview:** to its own section. Some parts of the intro section got moved to the projects overview section, and in order to avoid overloading that section the tech stack part was better off on its own.
 
 - **Changed the Data Sources section to Acknowledgements sections:** refined the text for Dog API and added AI contribution text.
+
+## [0.2.2] - 2024-01-16
+
+### Changed
+- **Fixed link error in Acknowledgements secion of README.md:** Link to ChatGTP tos was misformatted.

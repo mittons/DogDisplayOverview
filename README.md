@@ -86,7 +86,7 @@ For this repository, the following developments are planned/considered:
 
 - **The Dog API:** The applications in this portfolio use data from [The Dog API](https://www.thedogapi.com). I route the traffic through my own private backend proxy in order to secure my user key for the API, in line with the [The Dog API TOS](https://thedogapi.com/terms).
 
-- **ChatGPT:** Powered by OpenAI, specifically ChatGPT-4. Files in this project and files the portfolio it represents vary between being Content that is completely AI generated to being completely human-generated. The term Content, and other relevant definitions, can be observed on [The OpenAI TOS page])(https://openai.com/policies/terms-of-use#using-our-services).
+- **ChatGPT:** Powered by OpenAI, specifically ChatGPT-4. Files in this project and files the portfolio it represents vary between being Content that is completely AI generated to being completely human-generated. The term Content, and other relevant definitions, can be observed on [The OpenAI TOS page](https://openai.com/policies/terms-of-use#using-our-services).
    - For reference: 
       - The first Flutter project from December 9th does not include any fully AI generated texts, but relied on cooperative efforts from AI. Each of the Flutter projects from between December 16th and December 19th increased the volume on human-generated content, and at December 19th every line, and all intended functionality, was processed and output by a human.
       - The Angular project is mostly human-generated.
