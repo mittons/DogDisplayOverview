@@ -5,8 +5,9 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects Overview](#projects-overview)
+- [Technology Stack](#technology-stack)
 - [Roadmap](#roadmap)
-- [Data Source](#data-source)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ## Introduction
@@ -21,8 +22,7 @@ I hope this portfolio also demonstrates my passion for learning, growth and buil
 
 *I also really like transparency!*
 
-*I will add to this overview repository incrementally over a few days, or a week or two. (or three).*
-
+## Projects Overview
 
 **The majority of Projects** in this repository share a **common functionality** at their first and final major release, while utilizing different techonlogies for implementation.
 
@@ -35,8 +35,6 @@ At **1.0.0+** the major projects have:
 - **Unit Tests** for each layer separately
 - **Integration/E2E Tests** with both layers
 - Push-Build-Test-Deploy **CI/CD process**
-
-## Projects Overview
 
 **List of Projects:** 
 
@@ -58,7 +56,8 @@ At **1.0.0+** the major projects have:
     - [DoggoDec16 1.0+](https://github.com/mittons/doggoDec16) - Practice project developed on December 16 2023
     - [DoggoDisplay01 1.0+](https://github.com/mittons/doggoDisplay01) - Practice project developed between December 09 2023 to December 13 2023
 
-**Technology Stack:** These projects touch on the following languages/frameworks: 
+## Technology Stack 
+The projects in this portfolio either touch directly or indirectly on the following languages/frameworks:
 - Flutter/Dart
 - Angular/TypeScript
 - Python/Flask
@@ -72,6 +71,8 @@ At **1.0.0+** the major projects have:
 
 ## Roadmap
 
+*I will add to this overview repository incrementally, and develop it, over the first few weeks after it's initial commit.*
+
 For this repository, the following developments are planned/considered:
 
 - [ ] **Development Journey:** Document the learning and decision making process in sequence.
@@ -81,9 +82,15 @@ For this repository, the following developments are planned/considered:
 - [X] **Personal Logs/Journals Archived:** I may include *(mostly)* unsanaitized copies of my personal learning journal, as well as the ad-hoc versioning changelog I used for each project before I wanted to subject it to public version control systems (i.e. before minimum viable product).
 - [ ] **Further Reflections:** Reflect on my decisions, my strategy, how I can build on the experience and assets gained from these projects, and draw conclusions. Among other things.  
 
-## Data Source
+## Acknowledgements
 
 - **The Dog API:** The applications in this portfolio use data from [The Dog API](https://www.thedogapi.com). I route the traffic through my own private backend proxy in order to secure my user key for the API, in line with the [The Dog API TOS](https://thedogapi.com/terms).
+
+- **ChatGPT:** Powered by OpenAI, specifically ChatGPT-4. Files in this project and files the portfolio it represents vary between being Content that is completely AI generated to being completely human-generated. The term Content, and other relevant definitions, can be observed on [The OpenAI TOS page])(https://openai.com/policies/terms-of-use#using-our-services).
+   - For reference: 
+      - The first Flutter project from December 9th does not include any fully AI generated texts, but relied on cooperative efforts from AI. Each of the Flutter projects from between December 16th and December 19th increased the volume on human-generated content, and at December 19th every line, and all intended functionality, was processed and output by a human.
+      - The Angular project is mostly human-generated.
+      - The C++, PHP and Python vary heavily from file to file, from being completely AI generated to completely human-generated.
 
 ## Contact
 

@@ -32,3 +32,14 @@
 ### Added
 
 - **Roadmap development:** Closed off an item, in v0.1.2, from the roadmap presented in the README.md. Updating minor version.
+
+
+
+## [0.2.1] - 2024-01-16
+
+### Changed
+- **Moved the part of the intro text that covers the standard functionality:** of the main projects to the projects overview section. It reduces the volume of the introduction text, making entry to the first impression/intro to the project less taxing. As such improving the experience.
+
+- **Moved the tech stack section of the projects overview:** to its own section. Some parts of the intro section got moved to the projects overview section, and in order to avoid overloading that section the tech stack part was better off on its own.
+
+- **Changed the Data Sources section to Acknowledgements sections:** refined the text for Dog API and added AI contribution text.
