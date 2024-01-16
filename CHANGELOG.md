@@ -25,3 +25,10 @@
 ### Added
 
 - **RAW alpha data:** Added the raw data this repository will partially be developed out of, for transparency and reflection.
+
+
+## [0.2.0] - 2024-01-16
+
+### Added
+
+- **Roadmap development:** Closed off an item, in v0.1.2, from the roadmap presented in the README.md. Updating minor version.

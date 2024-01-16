@@ -78,7 +78,7 @@ For this repository, the following developments are planned/considered:
 - [ ] **Learning Milestones:** Identify major areas of new knowledge and understanding.
 - [ ] **Challenges/Solutions:** Include sections on setup requirements, usage instructions for running, and testing.
 - [ ] **Skills Acquired:** Define aquired skills that were explicitly demonstrated in the projects.
-- [ ] **Personal Logs/Journals Archived:** I may include *(mostly)* unsanaitized copies of my personal learning journal, as well as the ad-hoc versioning changelog I used for each project before I wanted to subject it to public version control systems (i.e. before minimum viable product).
+- [X] **Personal Logs/Journals Archived:** I may include *(mostly)* unsanaitized copies of my personal learning journal, as well as the ad-hoc versioning changelog I used for each project before I wanted to subject it to public version control systems (i.e. before minimum viable product).
 - [ ] **Further Reflections:** Reflect on my decisions, my strategy, how I can build on the experience and assets gained from these projects, and draw conclusions. Among other things.  
 
 ## Data Source
