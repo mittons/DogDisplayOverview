@@ -48,3 +48,9 @@
 
 ### Changed
 - **Fixed link error in Acknowledgements secion of README.md:** Link to ChatGTP tos was misformatted.
+
+
+## [0.2.3] - 2024-01-17
+
+### Changed
+- **Fixed file type error in RAW data meta-documentation:** README.txt in journal folder has now been changed to README.md. Markdown file type is the correct file type
