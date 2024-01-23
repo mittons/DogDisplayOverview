@@ -351,3 +351,144 @@
    - Overview Repository
       - Added changelog
       - Added this file along with the ad hoc local version control logs for the projects from the initial experimental phase.
+
+# January 16, 2024
+## Main Achievements 
+b
+1. **Worked on DogDisplayOverview project.**
+   - Fixed small mistakes in the project. Extra parernthesis in the README.md, one file was txt filte type when it should have been MD.
+      - Updated CHANGELOG.md and github version tags on GitHub accordingly.
+
+2. **Worked on a small ad-hoc side project that taught me more on git version control, expression in Markdown and expressing state transformations in version control.** 
+   - Figured out the git squash procedure I want to apply to my current main projects. 
+      - I kind of fucked up yesterday (Jan 15th), exerimenting on the main branch of my current primary public facing projects. 
+      - Today I did better and tested and experimented with the functionality I wanted to see realized in a private, isolated space. It went well there (turns out what I was looking for was git squashing commits from one branch, into a new commit on another branch).
+        - It went well enough that I figured I might document this properly, and turn it into a learning experience where I do my best giving crazy good ascii type documentation. This was a struggle, I did get very far (had all data I needed, inside a function in python, structured.. just needed to format it for output). But it was late so..
+         - Because it was healthier, I ended up postponing the finish until tomorrow (Jan 17th), prioritizing rest.
+
+# January 17, 2024
+## Main Achievements 
+
+1. **Worked on the documentation for TestMergeBranches mini-project on GitHub.**
+
+   - Finished the formatting for the state changes.
+   - Finished making the scripts to generate the descriptions of the state change, 
+      - And even got AI (ChatGPT-4) to make V2 of the scripts after I had already made my own scripts with good output.
+   - Added some metadata, and reflective documentation for the scripts and the things I made
+   - Made a nice acknowledgements section for the README.md, in full collaboration with ChatGPT. Full mutually and explicitly acknowledged collaboration with ChatGPT, explicitly acknowledged from both sides.
+      - That was so cool! Collaboration is amazing, beneficial, and enriching!
+
+2. **Finished integrating the update squash merge changes into the main dog display projects I have been working on**: 
+
+   - Changed the code for the C++, PHP and Python code to squash merge. Hope it works!
+
+3. **Cleanup of current ongoing/experimental projects folders:** 
+   - Removed some empty folders from the December dir. 
+   - Ensured every project in December and January has a description in the index file.
+   - Moved one or two qualifying candidate from the experimental projects directories to the ongoing projects dirs and give them descriptions in the index file.
+
+
+# January 18, 2024
+## Main Achievements 
+
+1. **Cleanup of current ongoing/experimental projects folders:** 
+   - Moved any remaining currently qualifying candidate from the experimental projects directories to the ongoing projects dirs and give them descriptions in the index file.
+
+2. **DogDisplay Projects requirements/install/usage/testing README sections:**
+   - Researched setting those instructional sections up, both structure and contents of the sections, as well as laying the foundations of testing of instructions before publishing the content.
+      - Made a query to ChatGPT: Drafted my current vision of the section, the requirements there of, gave context for the C++ project, as well as made hooks to queries and promts for info on setting up environments to test following the instructions.
+      - Set up a sub project for this in the external (non git local repo) folder for the C++ DogDisplay project.
+      - Develped this project a bunch.
+
+3. **Worked on CppDogDisplay:**
+   - Build process improvements:
+      - Resolved issues related to build and compilation
+      - Improved the CMake process to automatically copy directory locations accessed by code via relative paths into each build/compile target directory (src, src/Release, tests, tests/Release).
+         - Updated path references in code files to align with the new file/folder locations, since all necessary resources are now available in each executable's directory.
+   - Updated the script that checks for integrity between project version references in code files. It can now detect our conanfile.py
+
+4. **Started experimenting with setting up isolated single use environments:** 
+   - Did some research on different options (vm,docker,github actions).
+   - Went with github repo, pulling from my main repo into a private one and testing development of the workflow, changes to the code, and building the testing the code there through actions script.
+      - Learnt about sunig actions/checkout@4 to fetch from other repositories!
+      - Managed to get the tests for the CppDogDisplay running on GH actions! (unplanned) \o/
+
+# January 19, 2024
+## Main Achievements 
+
+1. **Worked on CppDogDisplay:**
+   - Got it running on docker with ubuntu latest. Refined my method for windows-latest on gh actions.
+   - Added, fixed, and modified tests. Learnt more about EXPECT vs ASSERT in the process.
+   - Adjusted build scripts a bit
+   - Adjusted code that didnt compile with the linux compiler on ubuntu.
+   - Worked more on the readmes.
+   - Got second, more structure, test run working on both docker with ubuntu and the gh actions env for windows!
+
+2. **Update main with staging:** Developed a update main branch with staging branch workflow going on.
+
+1. **DogDisplay Projects requirements/install/usage/testing README sections:**
+   - Ran 
+
+
+## Notable (Milestone) Resources Created
+   - Skill in running up dockered ubuntu to test on linux platform.
+   - Skill in getting c++ project building and running on ubuntu.
+   - Learnt about conan profiles
+   - More experience with testing in c++. (EXPECT vs ASSERT). As well as a warning shot on verifying that outputs from functions called for testing are not empty when they should not be empty. (And then we iterate over empty and see no errors.?!?) Still need to look into iterating over null or nullptrs.. seems that was the case for me, I think!?
+
+
+# January 20, 2024
+
+## Main Achievements 
+
+1. **Kept on keeping on:** Forgot to add specifically to this journal. I focused a bunch on solving a git branch conflict problem. Eventually I reoriented myself back to presenting my current projects and focusing on compliance and operational tasks first, then strategic tasks, then finally selective entertainment in conjunction with uncontrolled hyper focus tasks.
+
+2. **Countdown:** Created a python script that outputs a countdown timer every second. Can be set with initial time left (HH,MM,SS) and starts counting down from there. In the console it is started in it actually counts down in line. But it also logs each tick into an output file. And I made an alias (command) that can be used from any mingw console in use on my computer. The command i need to enter is ticktock. Then i get the last line entered into the log. So i can set global countdowns for deadlines quickly see how much is left from any console window im working in (as long as its git bash, but its easy to do for an alias for any console program, that outputs the last line of a file at a location). It's cool.
+
+
+3. **Summary:** Summarized my projects. I was able to, in the span of an hour, create an overview folder with a readme in markdown, sectioned readme referencing documents in subfolders (and i made those as well in that hour). A quick draft of any entry point document for everything was working on at that point, for showcasing to a friend. It was cool. Even put it on a private repo on git very very quickly (git renders README.md's pretty well, and its good to have the sub directories and files on the git repo as well, as well as having the opportunity to create 'milestones' or 'check'-'points'. Where you finish everything you had put in (with nessecary refine ments), and then push it to git, giving you go-ahead to continue on further expansion, knowing that the current stuff is in a good, finished, agreeably-presentable state.)
+
+
+4. **Lets move to the next day:** Working into the night, as I'm drawing close to finishing a thing. I will move the journal to January 21st, 2024. To give myself leeway as I rest up tomorrow. Pushing hard is good sometimes, and can feel rewarding, but getting permission to gain adequate rest in return is vital as well.
+
+# January 21, 2024
+
+1. **Worked on documentation for the CppDogDisplay Project:**
+   - Set up a very good version of SHOWCASE_BUILD.md (with AI assistance, but I mean, of course! Get with the times or fall behind! And appreciate contributions, human, animal, natural or artificial! Always!), which gives instuctions on how to run a showcase of the project. (On gh actions or docker of ubuntu/win). It will refer to BUILD.md for detailed platform specific build instructions.
+   - Worked on BUILD.md
+
+2. **Worked on build from source docs:** 
+   - Refined the powershell script for fresh env, setup env, clone repo, build, test (optional) and run... the script that is the instuctions. 
+   - Refined the python script.
+   - Gathered my data.
+   - Started cooking with my current favorite co-chef, ChatGPT.
+      - The BUILD.md file that is, that is what we are cooking. And adding a bit of spice to the SHOWCASE_BUILD.md
+   - I worked on further refining the 'build from source' instructions for my project. I structured the documentation with precision, particularly the index, to allow for clear navigation. Interestingly, I included additional numbered subsections (like 2.3.1) in the content but not in the index. This subtle method serves to foreshadow content that's already in the works but hasn't yet undergone the final stages of refinement and isolated testing. It's a small detail, and without the missing context it has limited meaning, but its a detail that reflects the deliberate planning behind the repository's ongoing development.
+
+# January 21, 2024
+
+## Main Achievements 
+
+1. **Php from Source on Ubuntu Docker Adventures:**
+   - Finished figuring out what was causing errors in my explorative journey in building php 8.3.1 from source.. at least.. probably. But some of the packages i was using for extensions had PHP 8.1 as a depndency so apt on unbuntu was installing some php 8.1 thing feature. Even building the extensions from the code provided in the php 8.3.1 source, well it seems to require tools that have dependencies leading back to 8.1. But i was able to build compile install a minimal 8.3.1 PHP when i figured that out.
+   - Havent tried it out yet. Dont have any code to run for that minumal build really. If I do more PHP I need to build that as an asset. Also figured out the mintaue of what STDIN/STDOUT/STDERR PHP tests for in their build tests, in terms of TTY, and how that resulted in 3 tests to fail unexpectedly (out of 13616 tests that were not skipped, but run, and without expectations of failure). How it seems to be important to manually run the tests with explicit human input and verification when building the core module, rather than doing it as part of a bash script. Anywaaay... ¯\\_(ツ)_/¯.
+   - I also planned how to build the extensions in seperate containers with minimal container setups, and then use a central repo to cache them, and seek the cached versions built by me into the final php build env.. so I'mm able to keep it minimal by caching and handshaking.
+
+2. **Showcase Build GH Actions process:** 
+   - I finished creating gh actions scripts for the gh actions part of the showcases for each three projects.
+   - I managed to get one to run to near completion.. except there seems to be a bug in a script i am running. File it sohuld have written to doesnt seem to exists. OH YEAH. I think i solved it just now. 💡Eureka!💡 moment while writing logs is nice. The script executes in a GH actions step in a subdirectory of the gh actions workflow. GH actions resets to the root dir of the workflow between steps. Teardown mechanism for steps. I isolated the running and the outputting into different steps to use the natural section header structure in gh actions log that spawns from the steps system. If someone who doesnt understand stuff 100% reads my logs (and they are a showcase.. soo ¯\_(ツ)_/¯) well I want to have clear sections. "In this step we run the server and a fake client, output the server logs as well as what the client receives from the server" and then two more steps "In this step we output what the server logged" and then "In this step we output what the server gave as respnose to the client". So, 📌bottom line📌, i was trying to output the logs but i was in the wrong directory.. to make it work i just need to go  back into the subdirectory before i try to output the file.. as the path i give to the command that outputs the logs assumes the log being in current working dir. 💪 Problem solved! ✅
+   - Another workflow in this set of gh actions script (6 in total) has run to completion before.. earlier in my dev process. But I have since changed things.. for example moved to a py script (mentioned in last bullet point in this log) but I used a bash script. So that needs testing again.
+
+5. **Main repositories for projects:** Did a thing with renaming all of the projects for preemtive measures against licensing issues. Did not mention it but my old project name was literally breaching the PHP licene (which btw.. i wasnt including.. because im leaning at my max learning speed and i just pick up x amount of steps required per day, but i am commited to continously integrate better, safer more compliant steps (although I will challenge regulations and requirements for compliance if i think its off or unethical.. so i will change the system if i need to. But in this case the PHP language, its builds, binaries and such are all provided as a service, a very generous service and I have no rights to object to the compliance conditions of a service I do not depend upon for security and stability (neither long term or short term), nor depend upon for my freedom and human rights (whatever that means), (and i think.. kind of.. few do in this case.. ultimately...). So i mean. I will comply with their terms, and I do so freely because when I have the option and am not compelled to anything.))
+
+
+# January 22, 2024
+
+## Main Achievements 
+
+1. **Set up task structure for reaching the finish line:** Current tasks, goals listed at high level. Prioritized by dependency chains, then vitality and integrity of further progress in these projects and their goals. Even have some implemented but not yet refined stuff, and... even cool things I cooked up in my mind yesterday type stuff.., in the planning docs. But lower prio items are not detailed, just backlogged.
+
+2. **Wrote poetry, and studied ethics, using tech:** It was a fun tangent. Problems are to be faced. Everyone should have a choise. No one de-prioritized for the sake of other. I want to solve problems, but my input and effort is not to be expected. It a service, a service I choose to offer, freely, of my own choise, as long as there are clear terms, verification of every active participants understanding of the resulting effects on every party. I choose that choise and no other. But my services are limited and i choose who i offer them to and how, on explicit terms rather than implicit terms.
+
+3. **Added the new entries of this log to case study repo:** As I seem to be a few steps more steps away from completing the final milestones of this learning journey (by my previous definitions (of v1.0.0 of main projects)). BUT I AM LEARNING SO MUCH, both about fine grained coding stuff in hidden corners of the world, as well as about high level abstract strategy, project management and setup. In accordance with my own personal requirements of transparency, honesty, integrity (with consideration to context), ethics and human rights.
+   -  I will possibly add to that early ***alpha_version_RAW*** section again. There might even be additional entries for today (with this one substatement removed). I mean, since I still have a few steps left in this project. But maybe I wont have time, and that is understandable. Not everyone has time, not always.
