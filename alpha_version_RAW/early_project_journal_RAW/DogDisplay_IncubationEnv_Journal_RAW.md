@@ -453,6 +453,8 @@ b
 
 # January 21, 2024
 
+## Main Achievements 
+
 1. **Worked on documentation for the CppDogDisplay Project:**
    - Set up a very good version of SHOWCASE_BUILD.md (with AI assistance, but I mean, of course! Get with the times or fall behind! And appreciate contributions, human, animal, natural or artificial! Always!), which gives instuctions on how to run a showcase of the project. (On gh actions or docker of ubuntu/win). It will refer to BUILD.md for detailed platform specific build instructions.
    - Worked on BUILD.md
@@ -465,7 +467,7 @@ b
       - The BUILD.md file that is, that is what we are cooking. And adding a bit of spice to the SHOWCASE_BUILD.md
    - I worked on further refining the 'build from source' instructions for my project. I structured the documentation with precision, particularly the index, to allow for clear navigation. Interestingly, I included additional numbered subsections (like 2.3.1) in the content but not in the index. This subtle method serves to foreshadow content that's already in the works but hasn't yet undergone the final stages of refinement and isolated testing. It's a small detail, and without the missing context it has limited meaning, but its a detail that reflects the deliberate planning behind the repository's ongoing development.
 
-# January 21, 2024
+# January 22, 2024
 
 ## Main Achievements 
 
@@ -482,7 +484,7 @@ b
 5. **Main repositories for projects:** Did a thing with renaming all of the projects for preemtive measures against licensing issues. Did not mention it but my old project name was literally breaching the PHP licene (which btw.. i wasnt including.. because im leaning at my max learning speed and i just pick up x amount of steps required per day, but i am commited to continously integrate better, safer more compliant steps (although I will challenge regulations and requirements for compliance if i think its off or unethical.. so i will change the system if i need to. But in this case the PHP language, its builds, binaries and such are all provided as a service, a very generous service and I have no rights to object to the compliance conditions of a service I do not depend upon for security and stability (neither long term or short term), nor depend upon for my freedom and human rights (whatever that means), (and i think.. kind of.. few do in this case.. ultimately...). So i mean. I will comply with their terms, and I do so freely because when I have the option and am not compelled to anything.))
 
 
-# January 22, 2024
+# January 23, 2024
 
 ## Main Achievements 
 
