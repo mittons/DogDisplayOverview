@@ -494,3 +494,35 @@ b
 
 3. **Added the new entries of this log to case study repo:** As I seem to be a few steps more steps away from completing the final milestones of this learning journey (by my previous definitions (of v1.0.0 of main projects)). BUT I AM LEARNING SO MUCH, both about fine grained coding stuff in hidden corners of the world, as well as about high level abstract strategy, project management and setup. In accordance with my own personal requirements of transparency, honesty, integrity (with consideration to context), ethics and human rights.
    -  I will possibly add to that early ***alpha_version_RAW*** section again. There might even be additional entries for today (with this one substatement removed). I mean, since I still have a few steps left in this project. But maybe I wont have time, and that is understandable. Not everyone has time, not always.
+
+
+
+*Note: There has been a brief hiatus in logging on January 24, January 25 and January 26, 2024 due to health reasons. Attepmting to resume documentation to maintain consistency and track progress.*
+
+
+# January 27, 2024
+
+## Main Achievements
+
+### Personal Note: Balancing health and work responsibilities. Recognizing the need to rest and recover, yet committed to keeping the project's momentum alive within feasible limits.
+
+1. **Did some work, started pulling the threads together:** Seems like I got the flu. My brain is mush. I still pulled some work today to ensure I can capitalize on the work I have done so far. And I really, really want to maintain my momentum in my project efforts despite flu-related challenges.
+- I managed to set up all the files I need to push, to push/publish the work I have completed now. I still need to integrate some of the code I have made into those files (documentation), but I have the general structure up. I still have a few days to finish, so I should be good.
+
+# January 28, 2024
+
+## Main Achievements
+
+1. **Wrote BUILD.md, SHOWCASE_BUILD.md for python and php:** 
+- Used the existing BUILD.MD and SHOWCASE_BUILD.md for C++ as base.
+- Also moved the php ubuntu script to a sh script, to simplify the BUILD.md for php.
+
+2. **Finished setting up showcase and build instructions for c++, php and python:**
+- Finished the BUILD.md, SHOWCASE_BUILD.md and showcase GitHub Action workflows for all three projects.
+- Changed the README.md 's for the projects.
+- Wrote relevant CHANGELOG passages.
+- Tested the GitHub Action workflows before pushing.
+- Pushed the changes! \o/
+- Despite my best efforts, I'm sure there is an error in there somewhere. It's around 3000 lines of text added. ¯\_(ツ)_/¯.
+- Really, really, really, happy with the amount of work I did today, considering I'm still sick.
+
