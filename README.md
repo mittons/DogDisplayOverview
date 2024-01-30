@@ -1,6 +1,9 @@
 # DogDisplayOverview
 
 ### **Welcome to the DogDisplayOverview Repository!**
+This is a curated showcase of diverse projects, each reflecting a unique blend of technologies and methodologies. This collection not only demonstrates my technical skills but also unfolds the narrative of my evolving learning journey, offering insights into the development process and my personal growth as a developer.
+
+Seek the 🎯 icon for my latest projects, showcasing the most refined and polished work! Projects tagged with 💯 feature the most comprehensive functionalities.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -39,22 +42,22 @@ At **1.0.0+** the major projects have:
 **List of Projects:** 
 
  - **C++, PHP and Python Phase** (December 29 2023 to Jan/Feb 2023)
-    - [CppDogDisplay 0.1.0](https://github.com/mittons/CppDogDisplay) - Project developed between December 29 2023 and "*"
+    -🎯 [CppDogDisplay 0.1.0](https://github.com/mittons/CppDogDisplay) - Project developed between December 29 2023 and "*"
 
-    - [PhpDogDisplay 0.1.0](https://github.com/mittons/PhpDogDisplay) - Project developed between December 29 2023 and "*"
+    -🎯 [PhpDogDisplay 0.1.0](https://github.com/mittons/PhpDogDisplay) - Project developed between December 29 2023 and "*"
 
-    - [PythonDogDisplay 0.1.0](https://github.com/mittons/PythonDogDisplay) - Project developed between December 29 2023 and "*"
+    -🎯 [PythonDogDisplay 0.1.0](https://github.com/mittons/PythonDogDisplay) - Project developed between December 29 2023 and "*"
 
 
  - **Angular Phase** (December 22 2023 to December 25 2023)
-    - [AngularDogDisplay 1.0+](https://github.com/mittons/AngularDogDisplay01) - Practice project developed between December 22 2023 and December 25 2023
+    -💯 [AngularDogDisplay 1.0+](https://github.com/mittons/AngularDogDisplay01) - Practice project developed between December 22 2023 and December 25 2023
 
  - **Flutter Phase** (December 09 2023 to December 19 2023)
-    - [DoggoDec19 1.0+](https://github.com/mittons/doggoDec19) - Practice project developed on December 19 2023
-    - [DoggoDec18 1.0+](https://github.com/mittons/doggoDec18) - Practice project developed on December 18 2023
-    - [DoggoDec17 1.0+](https://github.com/mittons/doggoDec17) - Practice project developed on December 17 2023
-    - [DoggoDec16 1.0+](https://github.com/mittons/doggoDec16) - Practice project developed on December 16 2023
-    - [DoggoDisplay01 1.0+](https://github.com/mittons/doggoDisplay01) - Practice project developed between December 09 2023 to December 13 2023
+    -💯 [DoggoDec19 1.0+](https://github.com/mittons/doggoDec19) - Practice project developed on December 19 2023
+    -💯 [DoggoDec18 1.0+](https://github.com/mittons/doggoDec18) - Practice project developed on December 18 2023
+    -💯 [DoggoDec17 1.0+](https://github.com/mittons/doggoDec17) - Practice project developed on December 17 2023
+    -💯 [DoggoDec16 1.0+](https://github.com/mittons/doggoDec16) - Practice project developed on December 16 2023
+    -💯 [DoggoDisplay01 1.0+](https://github.com/mittons/doggoDisplay01) - Practice project developed between December 09 2023 to December 13 2023
 
 ## Technology Stack 
 The projects in this portfolio either touch directly or indirectly on the following languages/frameworks:

@@ -54,3 +54,8 @@
 
 ### Changed
 - **Fixed file type error in RAW data meta-documentation:** README.txt in journal folder has now been changed to README.md. Markdown file type is the correct file type
+
+## [0.2.4] - 2024-01-30
+
+### Added
+- **Preface:** Added a short preface to describe the document, highlight its main features and point to the ones I precieve as having most value.
