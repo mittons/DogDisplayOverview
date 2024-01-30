@@ -59,3 +59,8 @@
 
 ### Added
 - **Preface:** Added a short preface to describe the document, highlight its main features and point to the ones I precieve as having most value.
+
+## [0.2.5] - 2025-01-30
+
+### Fixed
+- **Line spacing in the read me list of project:** It was a bit off after the last update.
