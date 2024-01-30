@@ -55,6 +55,7 @@ At **1.0.0+** the major projects have:
     -💯 [AngularDogDisplay 1.0+](https://github.com/mittons/AngularDogDisplay01) - Practice project developed between December 22 2023 and December 25 2023
 
  - **Flutter Phase** (December 09 2023 to December 19 2023)
+    
     -💯 [DoggoDec19 1.0+](https://github.com/mittons/doggoDec19) - Practice project developed on December 19 2023
 
     -💯 [DoggoDec18 1.0+](https://github.com/mittons/doggoDec18) - Practice project developed on December 18 2023
