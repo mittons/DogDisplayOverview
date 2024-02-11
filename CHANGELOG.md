@@ -77,3 +77,8 @@
     - PATCH increments can now reflect assembly.
     - Version v0.4.0 will reflect the moment when the client/server projects have been assembled and the process logged.
     - Version v0.4.0 will enable assembly of this repository.
+
+## [0.3.2] - 2024-02-11
+
+### Added
+- ** Realized the attribution required to publish the final project that is needed as input for the finale of this documentation journey / reflection repository**

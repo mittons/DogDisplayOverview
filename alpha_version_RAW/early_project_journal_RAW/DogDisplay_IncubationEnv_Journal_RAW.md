@@ -730,3 +730,6 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 ## Main Achievements
 
  1. **Signaled the start of the final sprint in the dog display server/client projects:** By turning this project up to v0.3.0
+
+2. **Completed the third party licesnse file generation for the dog display client app:** 
+- Now I can move to prod
