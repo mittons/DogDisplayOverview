@@ -64,3 +64,8 @@
 
 ### Fixed
 - **Line spacing in the read me list of project:** It was a bit off after the last update.
+
+## [0.3.0] - 2024-02-11
+
+### Added
+- **Setting the stage:** Laid down the finish line in the roadmap section.

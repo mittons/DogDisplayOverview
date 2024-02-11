@@ -91,6 +91,7 @@ For this repository, the following developments are planned/considered:
 - [ ] **Skills Acquired:** Define aquired skills that were explicitly demonstrated in the projects.
 - [X] **Personal Logs/Journals Archived:** I may include *(mostly)* unsanaitized copies of my personal learning journal, as well as the ad-hoc versioning changelog I used for each project before I wanted to subject it to public version control systems (i.e. before minimum viable product).
 - [ ] **Further Reflections:** Reflect on my decisions, my strategy, how I can build on the experience and assets gained from these projects, and draw conclusions. Among other things.  
+- [ ] **Wrap up:** Finalize the project by stating its intent and setting up my next projects.
 
 ## Acknowledgements
 
