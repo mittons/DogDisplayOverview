@@ -81,4 +81,10 @@
 ## [0.3.2] - 2024-02-11
 
 ### Added
-- ** Realized the attribution required to publish the final project that is needed as input for the finale of this documentation journey / reflection repository**
+- **Realized the attribution required to publish the final project that is needed as input for the finale of this documentation journey / reflection repository**
+
+## [0.3.3] - 2024-02-11
+
+### Added
+- **First actual commit the DogDisplayStaticClient repository:**
+    - I think it's appropriate to make note of the fact that the [DogDisplayStaticClient repostiory was created](https://github.com/mittons/DogDisplayStaticClient/commit/65614749c0874504d11377f1c62aad45be00c16d) a minute after this [DogDisplayOverview repository was created](https://github.com/mittons/DogDisplayOverview/commit/befd51c5fb0dd766ba1bbd269d647c8d12814dcc). It's information that fits the purpose of this repository.
