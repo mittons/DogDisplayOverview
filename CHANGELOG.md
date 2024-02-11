@@ -73,4 +73,7 @@
 ## [0.3.1] - 2024-02-11
 
 ### Added
-- **The initial step after breaking out of CHAOS, into ORDER.** CHAOS diversifies, ORDER assembles. When both have done their work a FIT can be found. 0.3.0 added the switch from CHAOS to ORDER as a minor feature. It's time to assemble.
+- **The initial step after breaking out of CHAOS, into ORDER.** CHAOS diversifies, ORDER assembles. When both have done their work a FIT can be found. 0.3.0 reflected the switch from CHAOS to ORDER as a feature. It's time to assemble. 
+    - PATCH increments can now reflect assembly.
+    - Version v0.4.0 will reflect the moment when the client/server projects have been assembled and the process logged.
+    - Version v0.4.0 will enable assembly of this repository.
