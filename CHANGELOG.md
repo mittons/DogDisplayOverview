@@ -69,3 +69,8 @@
 
 ### Added
 - **Setting the stage:** Laid down the finish line in the roadmap section.
+
+## [0.3.1] - 2024-02-11
+
+### Added
+- **The initial step after breaking out of CHAOS, into ORDER.** CHAOS diversifies, ORDER assembles. When both have done their work a FIT can be found. 0.3.0 added the switch from CHAOS to ORDER as a minor feature. It's time to assemble.
