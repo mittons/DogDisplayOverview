@@ -526,3 +526,207 @@ b
 - Despite my best efforts, I'm sure there is an error in there somewhere. It's around 3000 lines of text added. ¯\_(ツ)_/¯.
 - Really, really, really, happy with the amount of work I did today, considering I'm still sick.
 
+# January 29, 2024
+
+## Main Achcievements
+
+1. **Worked on job applications:**
+- Refined my job application test, streamlining and moving information down to other projects files. Giving opt-in to further exploration of what I have to offer. Finished majoritity of what I was working on.
+
+# January 30, 2024
+
+## Main Achcievements
+
+1. **Worked on job applications:** 
+- Finished job application thing, happy with it as it is.
+
+2. **Started working on refining the client page for the latest DogDisplay project:**
+- Started actively playing around with submodules in Git.
+
+3. **Had fun learning command line tools:** Practiced the sed command in bash!
+
+
+# January 31, 2024
+
+
+## Main Achcievements
+
+1. **Rest, sweet rest:** I had a relaxed day today, and I might for the next few days.
+
+2. **Worked on directory structure of the DogDisplayStaticClient project:** Worked on splitting the project into its main directories. Ended up deciding on a split between web_staging (or static_web_staging, or static_web_client_staging) AND THEN client_tests (or selenium_tests) folder. So two folders, one for testing the client, the other for a staging version of the client.
+
+
+# February 1, 2024
+
+## Main Achievements
+
+1. **Rest, sweet rest:** I had a relaxed day today, and I might for the next few days.
+
+2. ***Worked on directory structure of the DogDisplayStaticClient project:** Worked slightly bit more on the structure.
+
+
+
+# February 2, 2024
+
+## Main Achievements
+
+1. **Definitely rested**
+
+
+
+# February 3, 2024
+
+## Main Achievements
+
+1. **Definitely rested**
+
+# February 4, 2024
+
+## Main Achievements
+
+1. **Set up testing for the client. Set up the scripts and all of that**.
+- Now i just need to create
+    - Good static_web_build folder
+        - Including pem_pub key env var.
+        - And pem_key key env var.
+    - Licencing files
+    - Readme files
+    - Changelog files
+    - Test repos for the code for before i push it into the aether.
+   
+   - **Set diversified the outputs from the different projects a bit:** Python still displays "Dog Diversity Galore! 🐶 as title, but C++ displays "Dog Diversity Extravaganza! 🐶" and PHP Displays "Dog Diversity Abundance! 🐶"
+
+
+# February 5, 2024
+
+## Main Achievements
+
+1. **Started to focus and refocus:** Started systematically testing every piece.
+
+2. **Set up automated scripting to test all projects locally:** It was a good way to learn about process management, background processes/sanitation of background processes, termination signals and such.
+
+3. **Started getting back into gear:** Created a overview doc.. to start gathering the assets/materials/data. Prepping for cooking the recipe.
+
+
+# February 6, 2024
+
+## Main Achievements
+
+1. **Finished pretty much all automation scripts for my workprocess and verifying all my code:** Cool stuff. Can run everything ive done until now in this project with a single command pretty much (aside from the external server setup-build-test-run things).
+
+2. **Docmuent commands I use the most.** Usually.. if i write a command.. i end up writing again soon. Seems its better to make a script with the command to document the steps I perform as I develop. The commands i perform usually end up in scripts or automation code anyway.. or that seems to be a pattern thats forming.
+
+
+# February 7, 2024
+
+## Main Achievements
+
+1. **Worked a lot on the static web client project for the dog display server side apps:**
+- Set up a reset process for myself in this project. Which is really cool. First time doing this. So basically:
+   - I have a script. It runs all of the code I have made so far that should be stable. Tests it. Verfies everything that ive gotten to work until now still works as it did when I felt it was finished and decided to add it to the script.
+
+   - I mean this is like.. layers of bash scripts and stuff. Learnt a bunch about like.. having a bash script run X many other bash scripts as background processes and collect their ids and then when I kill that bash script it goes through the collected IDS and kills the processes it spawned. *I MEAAAAN... i did take systems classes around 10 years ago that gave me all the knowledge to just.. have taken the initiative 10 years ago and made this part of my workflow back then... but hey... still have the knowledge.. now I can realize it and automate my stuff for real (gotta be careful though.. not to create vulnerabilities in my work space all over by building a tangled web shitty bash scripts with format strings and buffers and open shells that are rooted and so on. I will take this slow. But IT IS COOL. I CAN AUTOMATE EVERYTHING NOW! U.N.L.I.M.I.T.E.D. -=**P**=-=**O**=-=**W**=-=**E**=-=**R**=-!!!! OMEGA LEVEL MUTATION ACTIVATED).
+
+
+   Anyway whenever I finish a feature or something im working on i can just:
+   - [ ] Run this test script to ensure all works, 
+   - [ ] Do situational adhoc checks and tests for this specific commit.
+   - [ ] Commit changes
+   - [ ] Store any info needed to gen documentation or any research links that havent been stored.
+   - [ ] Restart my computer.. CLEAN ENV
+   - [ ] Open bash
+   - [ ] Alias to project dir
+   - [ ] Run script again to all verified progress is still there
+   - [ ] ...
+   - [ ] Proceed to work on the next task in a completely clean env with everything set up for easy access 
+      - (well.. this part requires active organizations skills on my part.. but it is a lot easier to organize myself if I can just... reset my whole work env every time i finish a thing.)
+        - So hooray for that! \o/
+          - Triple hooray
+   
+2. **Static web client project (continued):** 
+<details><summary>Redacted for now, click to expand for details.</summary>
+
+<br>
+
+Probably not needed for this section, but it was just a large block of text on well.. actually a good learning experience soooo. Chat GPT lead me down a less effective path than i was seeking and then I ended up realizing the error (my responsibility). And I learnt a lot from it. So this block of text is probably very much on point both in this document and also among this repositories intended products. 
+
+But I can add it later so.. ¯\\_(ツ)_/¯
+
+</details>
+
+3. **I considered <ins>the appropirateness</ins> my emerging trajectory of writing larger, less sctructured, sometimes massive log statements in here (even my current, unfiltered personal contemplations), as apposed to the short, straight to the point statements I started out with**:
+
+<details><summary>Redacted for now, click to expand for details.</summary>
+
+<br>
+
+Accidentally started a new project/projects(s) in this and it was alot of philosophy, I cant be pushing unfinished works into publish space when they reflect on sensitive subjects and may have an effect/influnces on others. Even though the idea is fully formed in my mind, I need to finish writing it down completely, seeing the fully realized version, and then evaluating if the idea in that form is fit for purpose in public context and adds value. And I need to reflect on its effects, both intended and what effects could potentially be realized.
+
+</details>
+
+# February 7, 2024 - Continued
+
+# Main achievements.
+
+4. **I should write as much as I want and can in this document in whatever way I want:**
+   - Im probably just gonna pass it through chatgpt to generate most of the roadmap stuff, well at wost 80% complete drafts of all of the roadmap stuff.
+    - Except for what I havent added yet.
+
+5. **Realized the final step in my dog display project phase**
+6. **Realized the final section(s) I want to use to bring this phase of the DogDisplayOverview project to an end.**
+   - Which is still just.. an unresolved promise...
+   ```
+   return new Promise(resolve => {
+      setTimeout(() => {
+         resolve('Promise resolved after at most 14 days.');
+      }, 14 * 24 * 60 * 60 * 1000);
+   });
+   ```
+
+7. **Tested the static web client on gh against a Paas server.**: A rather by lynchpin in my plan so, needs verification for green light, but I guess better late than never. ¯\\_(ツ)_/¯
+
+
+# February 8, 2024
+
+# Main achievements.
+
+
+1. **Started writing down tasks and steps need to end the dog display projects:** Got pretty far before I got on another tangent.
+2. **Realized this project was entering the home stretch, so I ended up focusing on clarifying my ideas on my next project/projects and the end goal for the core strategy that has defined them for the last few months**.
+3. **Mostly just a.. day of intense thought, but honestly. I dont remember if I did any produced any work. Probably some. I probably created folders for a few potential projects in whatever project mgmt system I found most relevant**
+
+# February 9, 2024
+
+1. **Wrote this thing about `CHAOS`, `ORDER`, `Separating the Good from the Bad, the Ugly and the Wierd.`**
+2. **Planned more things**
+3. **Researched more and looked to ***currently*** trusted places of reflection for bounce back.** 
+3. **Tested dockerizing the dog cpp project (didnt finish though.. bad me)**
+4. **Got ChatGPT to just.. make a whole picture to lamp blueprint string thing.. like it was just.. 96% AI-output**
+ - I need to be careful with this thing that I have made... well.. made by querying chatgpt. Its mine since [ChatGPT TOS](https://openai.com/policies/terms-of-use) says the output is mine. But.. the biggest direct contributor was definitely the tech [I](# "I really dislike people who use others, wheter human or tech, to contribute work and then simply take credit cause the contractually own the work. But thats just my opinion and I wont act on those impulses except in hidden onhover things connected to a single letter in a alpha raw data that is a lot of text and ive told people not to read it unless they really want to. So thats how that is.") used. ChatGPT. Its an amazing cool technology, and I will appreciate and acknowledge its contributions whether it stays relevant or gets [one upped](## "or even if people just manip history and context to look like it got one upped because it serves their purpose. I mean anything that facililates those purposes, well if those people get there way, the rest of us say.. i mean we just chime in and say 'f.😮.🙃.😊. reality'. We cover shit up." ).
+
+
+ # February 10, 2024
+
+ 1. **Finished this doc up to this point**.
+- I learnt alot:
+   - Hover alt text for md files.
+   - I've reached the point where i have content to fulfil the requirements of the strategy statement of my blog project! Horray! [telekines.is](https://www.telekines.is/)
+   - I have learnt to blur the word FUCK with emojis instead of just stars. Its not F.*.*.*., its F.😮.🙃.😊! Emojis are such a fun way to create slightly chaotic wibes in large pieces of text that up until now.. well we just use emojis for text message and personal messages on personal accounts. Bless the hearts of the teachers of the world, they can be at ease. I will probably not do any more university papers. But if I would I would probably find a way to justify having emojis all over. Even cover full pages of emojis. Perhaps have the title of the paper just a single emoji character. What kind of a paper could I write, if I the restriction I place is that the title must be and has to be, a single emoji character. And the paper must be written in a way that the title is justified as well fulfilling the requirements of the assignment and deliver a meaningful discussion on the topic of the learning materials/course materials/assignment description. Because fuck. I would do that. 100%............ No no no........ Because f😮🙃😊. I would to that. 100%.
+
+   - I learnt creative commons licences, [cc licences](https://creativecommons.org/share-your-work/cclicenses/) and applied my first one.
+   - I had created an idea, CHAOS, ORDER, "Separate the Good from the Bad and the Ugly". I iterated on it in a meaningful way.
+      - CHAOS, ORDER, "Separate the Good from the Bad, the Ugly, and the Wierd". Wierd is such a nice thing. I live wierd. As long as its non malicious wierd.
+   - I over did the whole symphony analogy secret foreshadowing things.. all over.. but i dont think anyone will notice my intent here. I'm just gonna head for the finale and go to my next coda projects!
+   - Embraced every part of the creative process.
+   - Preached my beliefs.
+   - Accepted that I can be chaotic in front of others and that is just a ok. As long as I am accountable and act with the interest of everyone at heart, and the freedom of informed, autonomous, choise for every single being as my guiding light.
+   - I got a bit of a experience in using the donning kruger curve as a.. way to inform myself and be vary of my lack of info (i.e. my unconscious ignorance)... but also as a guard against the peak speciality of others (i.e. ignorant people).
+   - I'm happy with this list, im gonna deject from making this file. Refocus on what needs to be done today. Do those things. Log them in the next lines.
+   - Ended up on a tangent. Got a new project to a stage were I saw all the major steps and the big picture, but since I havent solved all of the problems required to finish that I will shelve it for now.
+
+
+# February 11, 2024
+
+## Main Achievements
+
+ 1. **Signaled the start of the final sprint in the dog display server/client projects:** By turning this project up to v0.3.0
