@@ -735,3 +735,5 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
    - Now I can move to prod
 
 3. **Pushed the DogDisplayStaticClient code:** From local development to its intended public repository on github.
+
+4. **Worked towards researching the domain mapping for my transferrable skills**
