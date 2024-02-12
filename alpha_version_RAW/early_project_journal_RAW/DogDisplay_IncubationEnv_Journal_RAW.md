@@ -743,3 +743,5 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 ## Main Achievements
 
 1. **Set up and seeded a work breakdown repository to develop the design for DogDisplayOverview repo.** Its currently private and I reserve the rights to choose wheter I publish it or not, and defer that decision to a later date (potentially indefinitely).
+
+2. **Made roadmap file:** for DogDisplayStaticClient project, which covers all major steps to v1.0.0 for the c++,php,python projcts, and all the major steps to v1.0.0 for DogDisplayStaticClient. Along with some minor ones. Its not really written in a very clean way but it doesnt matter, its my roadmap, my accountability tool and not every single thing I publish needs to be perfect. [Link to roadmap commit for context](https://github.com/mittons/DogDisplayStaticClient/commit/338eeb18e2137c538ec8a3dfc097e5301123ebdf0).

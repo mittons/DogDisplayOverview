@@ -93,3 +93,8 @@
 
 ### Added
 - **Started building and designing the end product contents of this repository**
+
+## [0.3.5] - 2024-02-12
+
+### Added
+- **Clarified intended design and purpose of projects, transparently setting expectations, enforcing accountability towards stated intent.**
