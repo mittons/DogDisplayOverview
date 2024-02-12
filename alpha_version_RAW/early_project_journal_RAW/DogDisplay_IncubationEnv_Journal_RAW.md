@@ -737,3 +737,9 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 3. **Pushed the DogDisplayStaticClient code:** From local development to its intended public repository on github.
 
 4. **Worked towards researching the domain mapping for my transferrable skills**
+
+# February 12, 2024
+
+## Main Achievements
+
+1. **Set up and seeded a work breakdown repository to develop the design for DogDisplayOverview repo.** Its currently private and I reserve the rights to choose wheter I publish it or not, and defer that decision to a later date (potentially indefinitely).
