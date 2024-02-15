@@ -111,3 +111,7 @@
 
 - **Initial PoC for this project**
     - Showcase of bash learning curve. [BashLearningCurve.md](PoC_markdown_documents\BashLearningCurve.md)
+
+## [0.3.9] - 2024-02-14
+
+- **Acknowledged some of the older project had already gotten a bit of work done on their attribution facing side**
