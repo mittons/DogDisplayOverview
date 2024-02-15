@@ -772,3 +772,6 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 </details>
 
 2. **Planned the DogDisplayOverview project further, eventually limiting its scope and further defining the last tasks**
+
+3. **Made a PoC repo, showing one way that this project will portentially deliver on its promises.**
+- Added it to the overview repo as part of folder: [PoC_markdown_documents](/PoC_markdown_documents).

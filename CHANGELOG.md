@@ -106,3 +106,8 @@
 ## [0.3.7] - 2024-02-13
 
 - **Project has clear scope now!**
+
+## [0.3.8] - 2024-02-13
+
+- **Initial PoC for this project**
+    - Showcase of bash learning curve. [BashLearningCurve.md](PoC_markdown_documents\BashLearningCurve.md)
