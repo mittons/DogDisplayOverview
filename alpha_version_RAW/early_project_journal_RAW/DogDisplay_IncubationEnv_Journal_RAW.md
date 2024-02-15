@@ -770,3 +770,5 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 
 
 </details>
+
+2. **Planned the DogDisplayOverview project further, eventually limiting its scope and further defining the last tasks**

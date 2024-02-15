@@ -102,3 +102,7 @@
 ## [0.3.6] - 2024-02-13
 
 - **Updated the earliest projects that this repo is derived from to be more up to my current standards when it comes to licensing, attribtution, and acknowledgement.**
+
+## [0.3.7] - 2024-02-13
+
+- **Project has clear scope now!**
