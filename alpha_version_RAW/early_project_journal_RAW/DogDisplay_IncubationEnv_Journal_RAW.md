@@ -745,3 +745,28 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 1. **Set up and seeded a work breakdown repository to develop the design for DogDisplayOverview repo.** Its currently private and I reserve the rights to choose wheter I publish it or not, and defer that decision to a later date (potentially indefinitely).
 
 2. **Made roadmap file:** for DogDisplayStaticClient project, which covers all major steps to v1.0.0 for the c++,php,python projcts, and all the major steps to v1.0.0 for DogDisplayStaticClient. Along with some minor ones. Its not really written in a very clean way but it doesnt matter, its my roadmap, my accountability tool and not every single thing I publish needs to be perfect. [Link to roadmap commit for context](https://github.com/mittons/DogDisplayStaticClient/commit/338eeb18e2137c538ec8a3dfc097e5301123ebdf0).
+
+# February 13, 2024
+
+## Main Achievements
+
+1. **Updated older projects be more in line with the standards my latest projects project, in terms of licensing, attribution and acknowledgement handling.**
+
+<details><summary><ins>Click</ins> to expand/collapse changelog links:</summary>
+
+</br>
+
+- [AngularDogDisplay01 Update](https://github.com/mittons/AngularDogDisplay01/commit/aa69dae1647a0532314a968032a7dc06e0094077)
+- [DoggoDec19 Diff](https://github.com/mittons/DoggoDec19/compare/8398f537221fad401b2e634912fba1c52d4d6831...5f9addd3d0b113a95590109c2b92dc8551e4a06d)
+- [DoggoDec18 Diff](https://github.com/mittons/DoggoDec18/compare/0570d4b8eab44a0bbaf3c6c9b808ddef4bd4c755...51822802bd5133553939d8f6c57cb6701ab82551)
+- [DoggoDec17 Diff](https://github.com/mittons/DoggoDec17/compare/490562fe4e7fbb6fff7cb28735c3b1edf9aa41a5...8743b10a1966fcb5c8bde5e68d12d67a1e07060b)
+- [DoggoDec16 Diff](https://github.com/mittons/DoggoDec16/compare/08c45774bbff3a9ed1cec35c4899b7b050f30ede...2300c571ba86399d39c80f58ec4d777ec4dd3f3a)
+- [DoggoDisplay01 Diff](https://github.com/mittons/DoggoDisplay01/compare/d85ca31ecafaae8f36318d53b76acb0c15cb3a92...73be17a68f99cd47bd6d5f3742e962c64c75a363)
+- [MockDogApiDec19 Diff](https://github.com/mittons/MockDogApiDec19/compare/05a441df40f2663f43d3a85fb1ca1d103971b3b0...d02b55f851476e99fa75bca9be7a5f066e2f8ad9)
+- [MockDogApiDec18 Update](https://github.com/mittons/MockDogApiDec18/commit/c6135af55d4c00b9482a1f44b192c4ecaedd33be)
+- [MockDogApiDec17 Update](https://github.com/mittons/MockDogApiDec17/commit/9ad8e2d857baf81bc81fd5579d1fab9520155250)
+- [MockDogApiDec16 Update](https://github.com/mittons/MockDogApiDec16/commit/5fcd82026ac08851de91c4c4f16d873fa40df430)
+- [MockDogApi01 Update](https://github.com/mittons/MockDogApi01/commit/a58f63699fbe4fa956d2e64dd4ef65b2c3c4fd5a)
+
+
+</details>

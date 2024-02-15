@@ -57,14 +57,19 @@ At **1.0.0+** the major projects have:
  - **Flutter Phase** (December 09 2023 to December 19 2023)
     
     -💯 [DoggoDec19 1.0+](https://github.com/mittons/doggoDec19) - Practice project developed on December 19 2023
+      - 💯 [MockDogApiDec19](https://github.com/mittons/MockDogApiDec19) - Limited mock of the external data service, developed on December 19 2023
 
     -💯 [DoggoDec18 1.0+](https://github.com/mittons/doggoDec18) - Practice project developed on December 18 2023
+      - 💯 [MockDogApiDec18](https://github.com/mittons/MockDogApiDec18) - Limited mock of the external data service, developed on December 18 2023
     
     -💯 [DoggoDec17 1.0+](https://github.com/mittons/doggoDec17) - Practice project developed on December 17 2023
+      - 💯 [MockDogApiDec17](https://github.com/mittons/MockDogApiDec17) - Limited mock of the external data service, developed on December 17 2023
     
     -💯 [DoggoDec16 1.0+](https://github.com/mittons/doggoDec16) - Practice project developed on December 16 2023
+      - 💯 [MockDogApiDec16](https://github.com/mittons/MockDogApiDec16) - Limited mock of the external data service, developed on December 16 2023
     
     -💯 [DoggoDisplay01 1.0+](https://github.com/mittons/doggoDisplay01) - Practice project developed between December 09 2023 to December 13 2023
+      - 💯 [MockDogApi01](https://github.com/mittons/MockDogApi01) - Limited mock of the external data service, developed between December 09 2023 to December 13 2023
 
 ## Technology Stack 
 The projects in this portfolio either touch directly or indirectly on the following languages/frameworks:
@@ -75,9 +80,12 @@ The projects in this portfolio either touch directly or indirectly on the follow
 - PHP/Laravel
 - Node.js
 - Bash
+- Powershell
 - Docker
 - C#
 - GitHub Actions
+- Git
+- Markdown
 
 ## Roadmap
 

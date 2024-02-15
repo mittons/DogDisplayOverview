@@ -98,3 +98,7 @@
 
 ### Added
 - **Clarified intended design and purpose of projects, transparently setting expectations, enforcing accountability towards stated intent.**
+
+## [0.3.6] - 2024-02-13
+
+- **Updated the earliest projects that this repo is derived from to be more up to my current standards when it comes to licensing, attribtution, and acknowledgement.**
