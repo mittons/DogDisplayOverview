@@ -782,20 +782,35 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 
 1. **Acknowledged some of the older project had already gotten a bit of work done on their attribution facing side**
 
-<details><summary><ins>Click</ins> to expand/collapse updated set of changelog links:</summary>
+   <details><summary><ins>Click</ins> to expand/collapse updated set of changelog links:</summary>
 
-</br>
+   </br>
 
-- [AngularDogDisplay01 Update](https://github.com/mittons/AngularDogDisplay01/commit/aa69dae1647a0532314a968032a7dc06e0094077)
-- [🔄 DoggoDec19 Diff](https://github.com/mittons/DoggoDec19/compare/8398f537221fad401b2e634912fba1c52d4d6831...1f8cbb601263ba0eb91ec8f49ce1186dd8dc15c5)
-- [🔄 DoggoDec18 Diff](https://github.com/mittons/DoggoDec18/compare/0570d4b8eab44a0bbaf3c6c9b808ddef4bd4c755...6d6359c39c37c3e4fd46022a36d7fc260152ac20)
-- [🔄 DoggoDec17 Diff](https://github.com/mittons/DoggoDec17/compare/490562fe4e7fbb6fff7cb28735c3b1edf9aa41a5...366c4f6e1dec7dd4fb3dedd769d0f24ada41c6fa)
-- [🔄 DoggoDec16 Diff](https://github.com/mittons/DoggoDec16/compare/08c45774bbff3a9ed1cec35c4899b7b050f30ede...e4e7649e09c3faa0f57fa0becef156cbf011bbcb)
-- [🔄 DoggoDisplay01 Diff](https://github.com/mittons/DoggoDisplay01/compare/d85ca31ecafaae8f36318d53b76acb0c15cb3a92...cace511e492a891561ecf9ea17a84aee66d3b08e)
-- [MockDogApiDec19 Diff](https://github.com/mittons/MockDogApiDec19/compare/05a441df40f2663f43d3a85fb1ca1d103971b3b0...d02b55f851476e99fa75bca9be7a5f066e2f8ad9)
-- [MockDogApiDec18 Update](https://github.com/mittons/MockDogApiDec18/commit/c6135af55d4c00b9482a1f44b192c4ecaedd33be)
-- [MockDogApiDec17 Update](https://github.com/mittons/MockDogApiDec17/commit/9ad8e2d857baf81bc81fd5579d1fab9520155250)
-- [MockDogApiDec16 Update](https://github.com/mittons/MockDogApiDec16/commit/5fcd82026ac08851de91c4c4f16d873fa40df430)
-- [MockDogApi01 Update](https://github.com/mittons/MockDogApi01/commit/a58f63699fbe4fa956d2e64dd4ef65b2c3c4fd5a)
+   - [AngularDogDisplay01 Update](https://github.com/mittons/AngularDogDisplay01/commit/aa69dae1647a0532314a968032a7dc06e0094077)
+   - [🔄 DoggoDec19 Diff](https://github.com/mittons/DoggoDec19/compare/8398f537221fad401b2e634912fba1c52d4d6831...1f8cbb601263ba0eb91ec8f49ce1186dd8dc15c5)
+   - [🔄 DoggoDec18 Diff](https://github.com/mittons/DoggoDec18/compare/0570d4b8eab44a0bbaf3c6c9b808ddef4bd4c755...6d6359c39c37c3e4fd46022a36d7fc260152ac20)
+   - [🔄 DoggoDec17 Diff](https://github.com/mittons/DoggoDec17/compare/490562fe4e7fbb6fff7cb28735c3b1edf9aa41a5...366c4f6e1dec7dd4fb3dedd769d0f24ada41c6fa)
+   - [🔄 DoggoDec16 Diff](https://github.com/mittons/DoggoDec16/compare/08c45774bbff3a9ed1cec35c4899b7b050f30ede...e4e7649e09c3faa0f57fa0becef156cbf011bbcb)
+   - [🔄 DoggoDisplay01 Diff](https://github.com/mittons/DoggoDisplay01/compare/d85ca31ecafaae8f36318d53b76acb0c15cb3a92...cace511e492a891561ecf9ea17a84aee66d3b08e)
+   - [MockDogApiDec19 Diff](https://github.com/mittons/MockDogApiDec19/compare/05a441df40f2663f43d3a85fb1ca1d103971b3b0...d02b55f851476e99fa75bca9be7a5f066e2f8ad9)
+   - [MockDogApiDec18 Update](https://github.com/mittons/MockDogApiDec18/commit/c6135af55d4c00b9482a1f44b192c4ecaedd33be)
+   - [MockDogApiDec17 Update](https://github.com/mittons/MockDogApiDec17/commit/9ad8e2d857baf81bc81fd5579d1fab9520155250)
+   - [MockDogApiDec16 Update](https://github.com/mittons/MockDogApiDec16/commit/5fcd82026ac08851de91c4c4f16d873fa40df430)
+   - [MockDogApi01 Update](https://github.com/mittons/MockDogApi01/commit/a58f63699fbe4fa956d2e64dd4ef65b2c3c4fd5a)
 
-</details>
+   </details>
+
+   
+
+
+2. **Added the final software code project to the Overview Project list of projects.**
+- The client facing project.
+- It found out it that it started on January 3, 2024 through the logs I had provided. 
+    - [Client part of project](/alpha_version_RAW/early_project_versioning_RAW/PythonDogDisplay_IncubationEnv_Logs_RAW.md#project-dir-dogs_flask_test_09) 
+    - [E2E test part of project](/alpha_version_RAW/early_project_versioning_RAW/PythonDogDisplay_IncubationEnv_Logs_RAW.md#project-dir-dogs_flask_test_11)
+- It's also worth noting, that while I did not contribute to that project publicly for a while (even though the raw python logs have been laying there with clear indication of its existence), and that despite not add a link it in this repository until now, that already knew this would be the final code project addition to the overview repository.
+    - The DogDisplayOverview repository was [created on January 12, 6:57 PM GMT](https://github.com/mittons/DogDisplayOverview/commit/befd51c5fb0dd766ba1bbd269d647c8d12814dcc). 
+    - The DogDisplayStaticClient repostiory was [created on January 12, 6:58 PM GMT](https://github.com/mittons/DogDisplayStaticClient/commit/65614749c0874504d11377f1c62aad45be00c16d).
+    - It was ver a month ago, and I made these repository only when and exactly when.. I knew the intended design up until this commit. High level design, at least. But I the timestamps, they provide a solid argument that I acted with `intent`.
+    - I knew the intended design up until this commit, but what comes next? In any case, this DogDisplayStaticClient project is part of the "Client phase" of the projects.
+    - But what comes next?

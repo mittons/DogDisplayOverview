@@ -39,15 +39,20 @@ At **1.0.0+** the major projects have:
 - **Integration/E2E Tests** with both layers
 - Push-Build-Test-Deploy **CI/CD process**
 
-**List of Projects:** 
+**List of Projects:**
+
+ - **Client phase** (January 03 2024 - *Feb*/**Mar**/***Apr*** 2024)
+
+    -🎯 [DogDisplayStaticClient 0.1.0](https://github.com/mittons/DogDisplayStaticClient) - Project developed between January 03 2023 and "*"
+
 
  - **C++, PHP and Python Phase** (December 29 2023 to Jan/Feb 2023)
     
-    -🎯 [CppDogDisplay 0.1.0](https://github.com/mittons/CppDogDisplay) - Project developed between December 29 2023 and "*"
+    -🎯 [DogDisplayForCpp 0.2.1](https://github.com/mittons/DogDisplayForCpp) - Project developed between December 29 2023 and "*"
 
-    -🎯 [PhpDogDisplay 0.1.0](https://github.com/mittons/PhpDogDisplay) - Project developed between December 29 2023 and "*"
+    -🎯 [DogDisplayForPhp 0.2.1](https://github.com/mittons/DogDisplayForPhp) - Project developed between December 29 2023 and "*"
 
-    -🎯 [PythonDogDisplay 0.1.0](https://github.com/mittons/PythonDogDisplay) - Project developed between December 29 2023 and "*"
+    -🎯 [DogDisplayForPython 0.2.1](https://github.com/mittons/DogDisplayForPython) - Project developed between December 29 2023 and "*"
 
 
  - **Angular Phase** (December 22 2023 to December 25 2023)

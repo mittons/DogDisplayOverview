@@ -115,3 +115,8 @@
 ## [0.3.9] - 2024-02-14
 
 - **Acknowledged some of the older project had already gotten a bit of work done on their attribution facing side**
+
+## [0.3.10] - 2024-02-15
+
+**Added the final software code project to the Overview Project list of projects.**
+- The client facing project, DogDisplayStaticClient.
