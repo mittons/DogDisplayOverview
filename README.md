@@ -98,7 +98,7 @@ The projects in this portfolio either touch directly or indirectly on the follow
 
 For this repository, the following developments are planned/considered:
 
-- [ ] **Rest:** Take a break from these projects and most other things for 2-3 weeks, until around the 7th of March 2024, or a bit earlier. These projects are mostly well defined, scoped and ready. PoC for a simple output of this project can be found in the [PoC_markdown_documents](PoC_markdown_documents) folder.
+- [X] **Rest:** Take a break from these projects and most other things for 2-3 weeks, until around the 7th of March 2024, or a bit earlier. These projects are mostly well defined, scoped and ready. PoC for a simple output of this project can be found in the [PoC_markdown_documents](PoC_markdown_documents) folder.
 
 - [ ] **Formally start building the end result:** Declare final phase of these projects. Define first level breakdown of it's steps and offer enough context to give the phase a limited scope.
 

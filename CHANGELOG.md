@@ -120,3 +120,14 @@
 
 **Added the final software code project to the Overview Project list of projects.**
 - The client facing project, DogDisplayStaticClient.
+
+## [0.4.0] - 2024-03-07
+
+**Resumed work**
+- Started by cleaning the environment. Still a few steps left there before I move forward, starting work in a clean environment is always good. But Order is now being established. And the current projects will be finalized, before further Chaos can ensue.
+
+**Course correcting the statements, on further versioning, made in this changelog for version 0.3.1:**
+  - v0.4.0 is now, as the research phase is done for the code projects, the scope has been defined in the broadest terms. The reasearch Chaos has ended and Ordered assembly has begun.
+  - v0.5.0 will be when the code projects have been assembled, and v0.5.0 will enable exploration of how this repo can be assembled (along with some assembly).
+  - v0.6.0 will be when this repo has receieved a clear scope and the only steps left are ones of assembly and figuring out minor nuances.
+  - Later versions, what happens after the initial assembly of this repository, will remained undefined for now.

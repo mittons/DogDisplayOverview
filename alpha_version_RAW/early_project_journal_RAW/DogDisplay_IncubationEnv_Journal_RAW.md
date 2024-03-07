@@ -814,3 +814,21 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
     - It was ver a month ago, and I made these repository only when and exactly when.. I knew the intended design up until this commit. High level design, at least. But I the timestamps, they provide a solid argument that I acted with `intent`.
     - I knew the intended design up until this commit, but what comes next? In any case, this DogDisplayStaticClient project is part of the "Client phase" of the projects.
     - But what comes next?
+
+
+# February 15, 2024
+
+## Main Achievements
+
+1. **Intentionally entered burnout for a few weeks:**
+  - After pushing my limits for a few months.
+  - It was the moment when I realized the projects were mapped out and scoped end to end, with only nuances left.
+  - [This was my final log on Feb 15](https://github.com/mittons/DogDisplayOverview/commit/796a7e72c6e70b5051faf5988965ef496b90d2d2).. stating I would take a break and giving a rough estiate on how long it would be.
+
+# March 7, 2024
+
+1. **Work on projects started again:**
+  - I've worked on other stuff for the past few days.. both organization/cleanup tasks, and I have new projects going on as well. As a result of spawning more projects.. I'm splitting the work on these dog display projects off from my actual dev journal/dev diary. I will stop pushing the entirety of my dev journal here. Instead, I will log my dev efforts on the dog projects here, and probably also in a more limited way in my actual dev journal.
+
+2. **Work on the dog display projects started again:**
+  - Did a single task in the DogDisplayStaticClient roadmap. [I picked up the litter, recycled it and put it somewhere nice.](https://github.com/mittons/DogDisplayStaticClient/commit/df0ba0b3efaa5b00c97ba7fcf3eedeceddd74de4)
