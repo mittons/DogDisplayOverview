@@ -827,8 +827,16 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 
 # March 7, 2024
 
+## Main Achievements
+
 1. **Work on projects started again:**
   - I've worked on other stuff for the past few days.. both organization/cleanup tasks, and I have new projects going on as well. As a result of spawning more projects.. I'm splitting the work on these dog display projects off from my actual dev journal/dev diary. I will stop pushing the entirety of my dev journal here. Instead, I will log my dev efforts on the dog projects here, and probably also in a more limited way in my actual dev journal.
 
 2. **Work on the dog display projects started again:**
   - Did a single task in the DogDisplayStaticClient roadmap. [I picked up the litter, recycled it and put it somewhere nice.](https://github.com/mittons/DogDisplayStaticClient/commit/df0ba0b3efaa5b00c97ba7fcf3eedeceddd74de4)
+
+
+# March 8, 2024
+
+ 1. **Further work on the code projects:**
+  - I cheated today, since im still configuring my environment and setting up further projects that support my progress past this project and its intentions, laying the line so to speak. Anyway I did check off an item in the coding project roadmap, but it was already completed. So. I did checked off work in these projects, without doing any 😈.
