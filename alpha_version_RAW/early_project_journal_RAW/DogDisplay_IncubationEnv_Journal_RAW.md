@@ -838,5 +838,17 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 
 # March 8, 2024
 
- 1. **Further work on the code projects:**
+1. **Further work on the code projects:**
   - I cheated today, since im still configuring my environment and setting up further projects that support my progress past this project and its intentions, laying the line so to speak. Anyway I did check off an item in the coding project roadmap, but it was already completed. So. I did checked off work in these projects, without doing any 😈.
+
+# March 14, 2024
+
+## Main Achievements
+
+1. **Gained awareness, course corrected:**
+    - This project and the projects it derives from on lower priority now (but not by much), until:
+        - I finish a project that recently came up (it will come to a conclusion on March 16th)
+        - Work a bit on another that has been ongoing for a while.
+        - Work a bit on a third one that has also been going on for well, a year.
+    - It won't be for long though, but I might chill until in April and finish this then. Or not, it's undecided.
+    - I gained awarness that was relevant to a project that was forming in my mind, both thought provoking and validating. I ended up realizing how it could fit in to my larger goals, but that I would have to fit it into my timeframe for other stuff (Ill leave that undefined, but with what's going on in my life it could be one or more of 3 different things. That are all coming to a convergence somehow. But at least two of them are urgent, one of them very). I am not beyond course correcting when I gain new awareness, even though I do practice integrity. But I do try to tell people when I course correct to regulate expectaions, but perhaps I could do better.

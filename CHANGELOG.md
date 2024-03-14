@@ -123,6 +123,8 @@
 
 ## [0.4.0] - 2024-03-07
 
+### Changed
+
 **Resumed work**
 - Started by cleaning the environment. Still a few steps left there before I move forward, starting work in a clean environment is always good. But Order is now being established. And the current projects will be finalized, before further Chaos can ensue.
 
@@ -131,3 +133,15 @@
   - v0.5.0 will be when the code projects have been assembled, and v0.5.0 will enable exploration of how this repo can be assembled (along with some assembly).
   - v0.6.0 will be when this repo has receieved a clear scope and the only steps left are ones of assembly and figuring out minor nuances.
   - Later versions, what happens after the initial assembly of this repository, will remained undefined for now.
+
+  ## [0.4.1] - 2024-03-14
+
+  ### Changed
+
+  1. **Gained awareness, course corrected:**
+    - This project and the projects it derives from on lower priority now (but not by much), until:
+        - I finish a project that recently came up (it will come to a conclusion on March 16th)
+        - Work a bit on another that has been ongoing for a while.
+        - Work a bit on a third one that has also been going on for well, a year.
+    - It won't be for long though, but I might chill until in April and finish this then. Or not, it's undecided.
+    - I gained awarness that was relevant to a project that was forming in my mind, both thought provoking and validating. I ended up realizing how it could fit in to my larger goals, but that I would have to fit it into my timeframe for other stuff (Ill leave that undefined, but with what's going on in my life it could be one or more of 3 different things. That are all coming to a convergence somehow. But at least two of them are urgent, one of them very). I am not beyond course correcting when I gain new awareness, even though I do practice integrity. But I do try to tell people when I course correct to regulate expectaions, but perhaps I could do better.
