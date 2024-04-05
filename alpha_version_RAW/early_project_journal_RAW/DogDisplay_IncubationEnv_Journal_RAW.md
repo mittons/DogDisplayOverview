@@ -861,5 +861,11 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 1. **Started working on full convergence of these projects.**
 
 2. **Automation of setting up most or all application dependencies for full testing of all combinations of the static client, cpp/php/python servers, and the mock/prod data sets.**
-   - Started pseudocoding the outline. Fed it as [a prompt into chatgpt](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir_script_gpt_prompt.md). [Got this script as output, as is](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir.sh).
+   - Started the day pseudocoding the outline. Fed it as [a prompt into chatgpt](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir_script_gpt_prompt.md). [Got this script as output, as is](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir.sh).
+   - End of day update: Automation script is complete.
+   
 
+
+3. **Changes to the cpp/php/python dog display projects:**
+    - Changed DogDisplayForPython to use different ports for the server based on the type of env (prod vs dev/testing).
+   - Changed DogDisplayForCpp to use different ports for the server based on the type of env (prod vs dev/testing).
