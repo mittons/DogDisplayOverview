@@ -145,3 +145,12 @@
         - Work a bit on a third one that has also been going on for well, a year.
     - It won't be for long though, but I might chill until in April and finish this then. Or not, it's undecided.
     - I gained awarness that was relevant to a project that was forming in my mind, both thought provoking and validating. I ended up realizing how it could fit in to my larger goals, but that I would have to fit it into my timeframe for other stuff (Ill leave that undefined, but with what's going on in my life it could be one or more of 3 different things. That are all coming to a convergence somehow. But at least two of them are urgent, one of them very). I am not beyond course correcting when I gain new awareness, even though I do practice integrity. But I do try to tell people when I course correct to regulate expectaions, but perhaps I could do better.
+
+## [0.4.2] - 2024-04-05
+
+### Added
+
+  1. **Started convergence of the DogDisplay projects. (And possibly a few others)**
+
+  2. **Automation of setting up most or all application dependencies for full testing of all combinations of the static client, cpp/php/python servers, and the mock/prod data sets**
+     - Started pseudocoding the outline. Fed it as [a prompt into chatgpt](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir_script_gpt_prompt.md). [Got this script as output, as is](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir.sh).
