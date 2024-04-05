@@ -869,3 +869,5 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 3. **Changes to the cpp/php/python dog display projects:**
     - Changed DogDisplayForPython to use different ports for the server based on the type of env (prod vs dev/testing).
    - Changed DogDisplayForCpp to use different ports for the server based on the type of env (prod vs dev/testing).
+
+4. **Cleaned up the dog display static client project directory structured, cleaned some code too.**
