@@ -162,3 +162,17 @@
 
   1. **Automation of setting up most or all application dependencies for full testing of all combinations of the static client, cpp/php/python servers, and the mock/prod data sets.**
     - Completed.
+
+## [0.5.0] - 2024-04-06
+
+### Security
+
+1. **Found the bug that was preventing the projects from coming to fruition, fixed it.**
+- [Related commit](https://github.com/mittons/DogDisplayForCpp/commit/1516a2857197c6a0da7607ef16a491d13b66f01d)
+- Set up a Dockerfile for the c++ project. It's required for the ultimate push-to-deploy CI/CD plan for the three server side projects (cpp/php/python) as it seems there aren't many PaaS (platforms) for hosting c++ projects online (though php and python seem to be in a good spot).
+   - Actually wrote this dockerfile a month ago. But there was a bug. The only problem in these projects I hadn't found a solution. So it was just a single stopper project wise for a month (although life also came into play, so to speak).
+- Fixed the bug that was holding the projects back.
+   - It only took one or two hours of passing ~5 code files (give or take a couple) from an popular open source project (CrowCpp) through ChatGPT. Each of them around 200-700 lines. In a fairly complex language I havent touched on in 10 years, until I my current project. So 2000-3000 lines of code, through a chatbot. Simple solution, easy actually. For real, this shift in tech is for real.
+   - Turned out it was only a single byte that was causing the hickup. LF. A line that got ended held things up for a month, but by removing the endline character from that line, not letting it end.. things could continue. Single byte as a stopper, gotta love it.
+      - Because of this we are going for version control upgrades all around. The projects can reach their intended fit, finally. V0.5.0. 
+      - Also, because of this, more verbal and less sterile changelog entry. Can't be all work, no play, right? Certainly not in the company of robots.

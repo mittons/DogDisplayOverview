@@ -863,11 +863,34 @@ Accidentally started a new project/projects(s) in this and it was alot of philos
 2. **Automation of setting up most or all application dependencies for full testing of all combinations of the static client, cpp/php/python servers, and the mock/prod data sets.**
    - Started the day pseudocoding the outline. Fed it as [a prompt into chatgpt](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir_script_gpt_prompt.md). [Got this script as output, as is](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir.sh).
    - End of day update: Automation script is complete.
-   
-
 
 3. **Changes to the cpp/php/python dog display projects:**
     - Changed DogDisplayForPython to use different ports for the server based on the type of env (prod vs dev/testing).
    - Changed DogDisplayForCpp to use different ports for the server based on the type of env (prod vs dev/testing).
 
 4. **Cleaned up the dog display static client project directory structured, cleaned some code too.**
+
+# April 6, 2024
+
+## Main Achievements
+
+1. **Found the bug that was preventing the projects from coming to fruition, fixed it.**
+- Set up a Dockerfile for the c++ project. It's required for the ultimate push-to-deploy CI/CD plan for the three server side projects (cpp/php/python) as it seems there aren't many PaaS (platforms) for hosting c++ projects online (though php and python seem to be in a good spot).
+   - Actually wrote this dockerfile a month ago. But there was a bug. The only problem in these projects I hadn't found a solution. So it was just a single stopper project wise for a month (although life also came into play, so to speak).
+- Fixed the bug that was holding the projects back.
+   - It only took one or two hours of passing ~5 code files (give or take a couple) from an popular open source project (CrowCpp) through ChatGPT. Each of them around 200-700 lines. In a fairly complex language I havent touched on in 10 years, until I my current project. So 2000-3000 lines of code, through a chatbot. Simple solution, easy actually. For real, this shift in tech is for real.
+   - Turned out it was only a single byte that was causing the hickup. LF. A line that got ended held things up for a month, but by removing the endline character from that line, not letting it end.. things could continue. Single byte as a stopper, poetry.
+      - Because of this we are going for version control upgrades all around. The projects can reach their intended fit, finally.
+
+### Added
+
+- **Wrote dockerfile for project:**
+  - Added a Dockerfile for the project. It's required for the ultimate push-to-deploy CI/CD plan as it seems there aren't many PaaS for hosting c++ project. 
+    - *It's slightly optimized, as it needs to fit below 500mb for the intended hosting service (I hope to dog I'm well informed on that limit). Started out at 900mb bruteforce, but got it down under 100 mb by building separately and then only taking the executable it's dependencies into the final image. Then I realized I made python a requirement and including that in the image pushed it up to 464mb. So we are there*
+      - *Worst comes to worst, still have 2 more options. Can optimize library linking and use smaller base image, but not doing that for now/indefinitely.*
+
+### Fixed
+  - **Sanitized inputs that become header values:**
+    - It turns out LFCRLF is enough for http clients to think the header section is over. And it turns out crow adds a CRLF after every header it streams. So if a header variable ends with LF, it pretty much ends the header section and the rest of the headers just become part of the response body. And different environment handle things differently. The docker setup ended up placing LF at the end of a string where no other setup had done so.
+      - But I fixed it now. So all good.
+      - v0.3.0 because this was the only real implementation stopper for a series of projects reaching their intended purpose. LF. 
