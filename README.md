@@ -77,7 +77,7 @@ At **1.0.0+** the major projects have:
       - 💯 [MockDogApi01](https://github.com/mittons/MockDogApi01) - Limited mock of the external data service, developed between December 09 2023 to December 13 2023
 
 ## Technology Stack 
-The projects in this portfolio either touch directly or indirectly on the following languages/frameworks:
+The projects in this portfolio either touch directly or indirectly on the following languages, frameworks, tools and technology:
 - Flutter/Dart
 - Angular/TypeScript
 - Python/Flask
@@ -91,6 +91,10 @@ The projects in this portfolio either touch directly or indirectly on the follow
 - GitHub Actions
 - Git
 - Markdown
+- Windows
+- Linux
+- VS Code
+- **ChatGPT**
 
 ## Roadmap
 
