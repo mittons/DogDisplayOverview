@@ -123,6 +123,8 @@
 
 ## [0.4.0] - 2024-03-07
 
+### Changed
+
 **Resumed work**
 - Started by cleaning the environment. Still a few steps left there before I move forward, starting work in a clean environment is always good. But Order is now being established. And the current projects will be finalized, before further Chaos can ensue.
 
@@ -131,3 +133,46 @@
   - v0.5.0 will be when the code projects have been assembled, and v0.5.0 will enable exploration of how this repo can be assembled (along with some assembly).
   - v0.6.0 will be when this repo has receieved a clear scope and the only steps left are ones of assembly and figuring out minor nuances.
   - Later versions, what happens after the initial assembly of this repository, will remained undefined for now.
+
+  ## [0.4.1] - 2024-03-14
+
+  ### Changed
+
+  1. **Gained awareness, course corrected:**
+    - This project and the projects it derives from on lower priority now (but not by much), until:
+        - I finish a project that recently came up (it will come to a conclusion on March 16th)
+        - Work a bit on another that has been ongoing for a while.
+        - Work a bit on a third one that has also been going on for well, a year.
+    - It won't be for long though, but I might chill until in April and finish this then. Or not, it's undecided.
+    - I gained awarness that was relevant to a project that was forming in my mind, both thought provoking and validating. I ended up realizing how it could fit in to my larger goals, but that I would have to fit it into my timeframe for other stuff (Ill leave that undefined, but with what's going on in my life it could be one or more of 3 different things. That are all coming to a convergence somehow. But at least two of them are urgent, one of them very). I am not beyond course correcting when I gain new awareness, even though I do practice integrity. But I do try to tell people when I course correct to regulate expectaions, but perhaps I could do better.
+
+## [0.4.2] - 2024-04-05
+
+### Added
+
+  1. **Started convergence of the DogDisplay projects. (And possibly a few others)**
+
+  2. **Automation of setting up most or all application dependencies for full testing of all combinations of the static client, cpp/php/python servers, and the mock/prod data sets**
+     - Started pseudocoding the outline. Fed it as [a prompt into chatgpt](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir_script_gpt_prompt.md). [Got this script as output, as is](https://github.com/mittons/DogDisplayStaticClient/blob/b7276855db016c221c13eedfab079a7b0be6e087/dev_scripts/refresh_dev_test_apps_dir.sh).
+
+
+## [0.4.3] - 2024-04-05
+
+### Added
+
+  1. **Automation of setting up most or all application dependencies for full testing of all combinations of the static client, cpp/php/python servers, and the mock/prod data sets.**
+    - Completed.
+
+## [0.5.0] - 2024-04-06
+
+### Security
+
+1. **Found the bug that was preventing the projects from coming to fruition, fixed it.**
+- [Related commit](https://github.com/mittons/DogDisplayForCpp/commit/1516a2857197c6a0da7607ef16a491d13b66f01d)
+- Set up a Dockerfile for the c++ project. It's required for the ultimate push-to-deploy CI/CD plan for the three server side projects (cpp/php/python) as it seems there aren't many PaaS (platforms) for hosting c++ projects online (though php and python seem to be in a good spot).
+   - Actually wrote this dockerfile a month ago. But there was a bug. The only problem in these projects I hadn't found a solution. So it was just a single stopper project wise for a month (although life also came into play, so to speak).
+- Fixed the bug that was holding the projects back.
+   - It only took one or two hours of passing ~5 code files (give or take a couple) from an popular open source project (CrowCpp) through ChatGPT. Each of them around 200-700 lines. In a fairly complex language I havent touched on in 10 years, until I my current project. So 2000-3000 lines of code, through a chatbot. Simple solution, easy actually. For real, this shift in tech is for real.
+   - Turned out it was only a single byte that was causing the hickup. LF. A line that got ended held things up for a month, but by removing the endline character from that line, not letting it end.. things could continue. Single byte as a stopper, gotta love it.
+      - Because of this we are going for version control upgrades all around. The projects can reach their intended fit, finally. V0.5.0. 
+      - Also, because of this, more verbal and less sterile changelog entry. Can't be all work, no play, right? Certainly not in the company of robots.
