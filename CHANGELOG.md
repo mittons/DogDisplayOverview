@@ -198,4 +198,11 @@
 ### Notes
 - **Commit Title:** "Shifting the Veil of the Symbolic Order."
 
+## [0.5.2] - 2025-03-24
 
+### Changed
+
+- **Added capitalization for emphasis.**
+
+### Notes
+- **Commit Title:** "Shifting The Veil of the Symbolic Order."

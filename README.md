@@ -136,4 +136,3 @@ For this repository, the following developments are planned/considered:
 ## Contact
 
 Axel Gauti Guðmundsson - [@axelgauti](https://twitter.com/axelgauti) - axel@axelgauti.is
-
